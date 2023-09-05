@@ -229,12 +229,12 @@ public final class CalculadoraView extends javax.swing.JFrame {
         jMenu1.setText("File");
 
         jmiHistorico.setAccelerator(javax.swing.KeyStroke.getKeyStroke(java.awt.event.KeyEvent.VK_H, java.awt.event.InputEvent.CTRL_MASK));
-        jmiHistorico.setText("Histórico");
+        jmiHistorico.setText("HistÃ³rico");
         jMenu1.add(jmiHistorico);
         jMenu1.add(jSeparator1);
 
         jmiExcluirHistorico.setAccelerator(javax.swing.KeyStroke.getKeyStroke(java.awt.event.KeyEvent.VK_H, java.awt.event.InputEvent.SHIFT_MASK | java.awt.event.InputEvent.CTRL_MASK));
-        jmiExcluirHistorico.setText("Excluir Histótrico");
+        jmiExcluirHistorico.setText("Excluir HistÃ³rico");
         jMenu1.add(jmiExcluirHistorico);
 
         jMenuBar1.add(jMenu1);
